@@ -1,0 +1,68 @@
+.btn_send {
+    margin: 20px 0 15px !important;
+}
+#request-submit
+{
+margin: 20px 0 1px !important;
+}
+#order-submit
+{
+margin-bottom: 31px !important;
+}
+span.zpd {
+    margin-right: 287px;
+    }
+.innerpad
+{
+padding: 30px 0 0;
+}
+privacy-policy-cookies-informer__txt
+{
+display: block !important;
+    background-color: #dfecf4 !important;
+  margin-left: 25%;
+  padding: 10px 40px 1px 25px !important;
+}
+.privacy-policy-cookies-informer {
+    background-color: #dfecf4 !important;
+  }
+.not-available
+{
+padding-top: 3px;
+}
+
+@media screen and (min-width: 1520px) {
+    .txx4 {
+    background-image: url(/include/logoop20012.png);
+    width: 200px;
+    height: 16px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    float:right;
+}
+.img-respons
+{
+width: 696px; 
+height: 516px;
+}
+}
+@media screen and (max-width: 1520px) {
+    .txx4 {
+    background-image: url(/include/logoop15012.png);
+    width: 150px;
+    height: 16px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    float:right;
+}
+.img-respons
+{
+width: 417px; 
+height: 310px;
+}
+}
+.spantx
+{
+float:left; 
+display:inline-block;
+}
